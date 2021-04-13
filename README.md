@@ -1,0 +1,2 @@
+# Quickzys
+Quick dataset speedruns
