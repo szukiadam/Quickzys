@@ -16,6 +16,18 @@ The datasets below also suggest that the most important thing for me here is rel
 - netflix movies and tv shows
 - valorant api -> match data
 - spotify api -> music taste analysis
+- fivethirtyeight candy power ranking
+- length of chopsticks
+- stackings cups 
+- wine quality 
+- shopping trolleys in Rivers
+- 100 burritos
+- movie body counts
+- rick and morty (prob need to scrape rating + ep description)
+- OKCupid dataset
+- ALPR data
+- public toilet map
+- reddit comments dataset
 
 ## Completed: 
 - esport earnings 1998-2020
