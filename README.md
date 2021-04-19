@@ -30,6 +30,9 @@ The datasets below also suggest that the most important thing for me here is rel
 - ALPR data
 - public toilet map
 - reddit comments dataset
+- [student performance on exams](https://www.kaggle.com/spscientist/students-performance-in-exams)
+- [anime recommendation database 2020](https://www.kaggle.com/hernan4444/anime-recommendation-database-2020)
+- [spotify top 200 songs (updated each day)](https://www.kaggle.com/dhruvildave/spotify-charts)
 
 ## Completed: 
 - esport earnings 1998-2020
