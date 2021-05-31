@@ -9,6 +9,8 @@ The datasets below also suggest that the most important thing for me here is rel
 
 *If for some reason you're lurking here, please contact me if you know a fun dataset! Cheers :clinking_glasses:!*
 
+Some datasets are from [R4DS Online Learning Community's TidyTuesday](https://github.com/rfordatascience/tidytuesday), so shoutout to them! 
+
 ## Remaining Ideas:
 - chocolate bar ratings
 - league of legends 2020 esports match data
@@ -31,8 +33,30 @@ The datasets below also suggest that the most important thing for me here is rel
 - public toilet map
 - reddit comments dataset
 - [student performance on exams](https://www.kaggle.com/spscientist/students-performance-in-exams)
-- [anime recommendation database 2020](https://www.kaggle.com/hernan4444/anime-recommendation-database-2020)
+- [anime dataset](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-04-23)
 - [spotify top 200 songs (updated each day)](https://www.kaggle.com/dhruvildave/spotify-charts)
+- [Ask a manager survey](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-05-18/readme.md)
+- [Netflix titles](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-04-20/readme.md)
+- [Video game current player numbers](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-03-16/readme.md)
+- [Superbowl Ads](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-03-02/readme.md)
+- [Password strengths](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-14/readme.md)
+- [NFL Stadium attendance](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-04/readme.md)
+- [Hotels](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-11/readme.md)
+- [Hockey Goals](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-03-03/readme.md)
+- [Beer production](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-03-31/readme.md)
+- [Tour de France](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-04-07/readme.md)
+- [Cocktails](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-05-26/readme.md)
+- [Coffee ratings](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-07/readme.md)
+- [Friends (sitcom)](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-08/readme.md)
+- [Big Mac index](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-12-22/readme.md)
+- [Board games](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-03-12)
+- [Ramen ratings](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-06-04)
+- [Pizza](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-10-01)
+- [NYC Squirrel](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-10-29)
+- [Christmas billboard](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-12-24)
+- [Ramen ratings](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-06-04)
+- [Seattle pet names](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-03-26)
+- 
 
 ## Completed: 
 - esport earnings 1998-2020
