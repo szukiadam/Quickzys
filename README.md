@@ -56,6 +56,7 @@ Some datasets are from [R4DS Online Learning Community's TidyTuesday](https://gi
 - [Christmas billboard](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-12-24)
 - [Ramen ratings](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-06-04)
 - [Seattle pet names](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-03-26)
+- [predict the rank of the top 200 games streamed on Twitch during May 2021 in #SLICED](https://www.kaggle.com/c/sliced-s01e06-2ld97c)
 - 
 
 ## Completed: 
